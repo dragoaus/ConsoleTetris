@@ -13,6 +13,7 @@ W or UpArrow => rotate
 S or DownArrow => push down
 
 
-![image](https://github.com/dragoaus/ConsoleTetris/assets/48952742/0f531c3e-9f5e-4910-87a8-f225992af92c)
+![image](https://github.com/dragoaus/ConsoleTetris/assets/48952742/aa9d485d-12e3-48dc-96ec-1c271ae22020)
+
 
 
